@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Monolithic Power Systems** | Software Engineer - New Grad | Barcelona | 47m | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer---New-Grad_R-1952) |
+| **Monolithic Power Systems** | Software Engineer - New Grad | Barcelona | 48m | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer---New-Grad_R-1952) |
 | **Datadog** | Software Engineering Intern | Madrid | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | **Thales** | DevOps Intern | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/DevOps-Intern_R0336368-1) |
 | **Thales** | Software Engineering Intern | Madrid, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Software-Engineering-Intern_R0336381-1) |
@@ -112,11 +112,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104998955) |
-| **Veolia Environnement SA** | Legal Trainee - Asesoría Jurídica Corporativa | Bizkaia, ES | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141226928) |
-| **NBCUniversal** | Finance Trainee | Madrid, ES | 9m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
-| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag y... | Madrid, ES | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
-| **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/68e54108-77f6-4295-8f2b-55ca79a1745b) |
+| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104998955) |
+| **Veolia Environnement SA** | Legal Trainee - Asesoría Jurídica Corporativa | Bizkaia, ES | 10m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141226928) |
+| **NBCUniversal** | Finance Trainee | Madrid, ES | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
+| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag y... | Madrid, ES | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
+| **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 11m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/68e54108-77f6-4295-8f2b-55ca79a1745b) |
 | **Abbott** | Government Affairs Intern - Madrid | Spain - Madrid, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Madrid/Government-Affairs-Intern---Madrid_31160131) |
 | **Johnson & Johnson** | Medical Affairs Internship | Madrid - Lafinca, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Madrid---Lafinca/Medical-Affairs-Internship_R-085553) |
 | **Nike** | Nike Retail Store Associate (Athlete)- Contrato a media jornada 16H - Nike Store Valladolid | Valladolid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Valladolid-Spain/Nike-Retail-Store-Associate--Athlete---Contrato-a-media-jornada-16H---Nike-Store-Valladolid_R-91310) |
