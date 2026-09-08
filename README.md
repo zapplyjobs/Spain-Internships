@@ -69,12 +69,12 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Monolithic Power Systems** | Software Engineer - New Grad | Barcelona | 1h | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer---New-Grad_R-1952) |
+| **Monolithic Power Systems** | Software Engineer - New Grad | Barcelona | 15m | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer---New-Grad_R-1952) |
 | **Datadog** | Software Engineering Intern | Madrid | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | **Thales** | DevOps Intern | Madrid, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/DevOps-Intern_R0336368-1) |
 | **Thales** | Software Engineering Intern | Madrid, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Software-Engineering-Intern_R0336381-1) |
-| **Boeing** | Intern - Software Engineering | ESP - Madrid | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1) |
 | **Monolithic Power Systems** | Software Engineer Intern | Barcelona | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786) |
+| **Boeing** | Intern - Software Engineering | ESP - Madrid | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1) |
 | **Marvell** | Software Engineer Intern | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2502346) |
 | **Affirm** | Software Engineer I, Fullstack (Servicing International) | Not specified | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7809763003) |
 
@@ -121,9 +121,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Johnson & Johnson** | Medical Affairs Internship | Madrid - Lafinca, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Madrid---Lafinca/Medical-Affairs-Internship_R-085553) |
 | **Nike** | Nike Retail Store Associate (Athlete)- Contrato a media jornada 16H - Nike Store Valladolid | Valladolid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Valladolid-Spain/Nike-Retail-Store-Associate--Athlete---Contrato-a-media-jornada-16H---Nike-Store-Valladolid_R-91310) |
 | **Nike** | Nike Retail Store Associate (Athlete)- 15H - Nike Store Madrid San Sebastian de los Reyes | NFS MADRID SSRR, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/NFS-MADRID-SSRR/Nike-Retail-Store-Associate--Athlete---15H---Nike-Store-Madrid-San-Sebastian-de-los-Reyes_R-91451-1) |
+| **GE Vernova** | Supply Chain Intern | Zamudio, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Zamudio/Supply-Chain-Intern_R5051702-2) |
 | **Johnson & Johnson** | Tendering & Sales Analyst Trainee | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Madrid-Spain/Tendering---Sales-Analyst-Trainee_R-097743) |
 | **Johnson & Johnson** | HEMA EMEA EP Trainee | Madrid | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jj.wd5.myworkdayjobs.com/jj/job/Madrid-Spain/HEMA-EMEA-EP-Trainee_R-096174) |
-| **GE Vernova** | Supply Chain Intern | Zamudio, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Zamudio/Supply-Chain-Intern_R5051702-2) |
 | **Johnson Controls** | Coordinador/a Instalaciones Retail I - Temp | Las Rozas-Madrid-Spain, ES | 4d | [<img src="images/apply.png" width="80" alt="Apply">](https://jci.wd5.myworkdayjobs.com/JCI/job/Las-Rozas-Madrid-Spain/Coordinador-Instalaciones-Retail-I---Temp_WD30279014) |
 | **Eurofins** | AI & Automation Intern | Barcelona, ES | 5d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000147214369) |
 | **Stanley Black & Decker** | Trade Marketing Trainee | Bergueda | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Bergueda-Catalonia-Spain/Trade-Marketing-Trainee_REQ-1000050967) |
