@@ -117,7 +117,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104998955) |
 | **Veolia Environnement SA** | Legal Trainee - Asesoría Jurídica Corporativa | Bizkaia, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141226928) |
-| **NBCUniversal** | Finance Trainee | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
+| **NBCUniversal** | Finance Trainee | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
 | **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
 | **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/68e54108-77f6-4295-8f2b-55ca79a1745b) |
 | **Abbott** | Government Affairs Intern - Madrid | Spain - Madrid, ES | 6h | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Madrid/Government-Affairs-Intern---Madrid_31160131) |
