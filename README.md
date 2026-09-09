@@ -69,15 +69,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Sopra Steria** | Programador/a Junior con Francés | Sevilla, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000134943139) |
-| **Sopra Steria** | Programador/a Java Junior con francés | Valencia, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000135040614) |
-| **Sopra Steria** | Programador/a Java Junior con francés | Madrid, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000135035735) |
+| **Sopra Steria** | Programador/a Junior con Francés | Sevilla, ES | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000134943139) |
+| **Sopra Steria** | Programador/a Java Junior con francés | Valencia, ES | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000135040614) |
+| **Sopra Steria** | Programador/a Java Junior con francés | Madrid, ES | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000135035735) |
 | **Monolithic Power Systems** | Software Engineer - New Grad | Barcelona | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer---New-Grad_R-1952) |
 | **Datadog** | Software Engineering Intern | Madrid | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | **Thales** | DevOps Intern | Madrid, ES | 6d | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/DevOps-Intern_R0336368-1) |
 | **Thales** | Software Engineering Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Software-Engineering-Intern_R0336381-1) |
-| **Monolithic Power Systems** | Software Engineer Intern | Barcelona | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786) |
 | **Boeing** | Intern - Software Engineering | ESP - Madrid | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/ESP---Madrid-Spain/Intern---Software-Engineering_JR2026522576-1) |
+| **Monolithic Power Systems** | Software Engineer Intern | Barcelona | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer-Intern_R-1786) |
 | **Marvell** | Software Engineer Intern | Madrid, ES | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Madrid/Software-Engineer-Intern_2502346) |
 | **Affirm** | Software Engineer I, Fullstack (Servicing International) | Not specified | 1mo | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/affirm/jobs/7809763003) |
 
@@ -115,11 +115,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104998955) |
-| **Veolia Environnement SA** | Legal Trainee - Asesoría Jurídica Corporativa | Bizkaia, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141226928) |
-| **NBCUniversal** | Finance Trainee | Madrid, ES | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
-| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
-| **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 20m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/68e54108-77f6-4295-8f2b-55ca79a1745b) |
+| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104998955) |
+| **Veolia Environnement SA** | Legal Trainee - Asesoría Jurídica Corporativa | Bizkaia, ES | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141226928) |
+| **NBCUniversal** | Finance Trainee | Madrid, ES | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
+| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
+| **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 28m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/68e54108-77f6-4295-8f2b-55ca79a1745b) |
 | **Eurofins** | AI & Automation Intern | Barcelona, ES | 3h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000148531473) |
 | **Red Bull** | Brand Trainee | Madrid, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000148513789) |
 | **Abbott** | Government Affairs Intern - Madrid | Spain - Madrid, ES | 13h | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Madrid/Government-Affairs-Intern---Madrid_31160131) |
@@ -134,8 +134,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Nike** | Nike Retail Associate (Athlete) - Contrato Duración Determinada - Nike Store La Coruna | Culleredo | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Culleredo-Spain/Nike-Retail-Associate--Athlete----Contrato-Duracin-Determinada---Nike-Store-La-Coruna_R-91166) |
 | **Thales** | INTELLIGENCE TRAINEE MADRID | Madrid Emilio Vargas, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid-Emilio-Vargas/INTELLIGENCE-TRAINEE-MADRID_R0338014-1) |
 | **Nissan** | Production & Industrial Automation Engineering, Graduate Trainee | Cantabria, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cantabria/Production---Industrial-Automation-Engineering--Graduate-Trainee_R00213377-1) |
-| **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cantabria/Environmental---Sustainability-Engineering--Graduate-Trainee_R00213378-1) |
 | **HARMAN International** | Dealer Support Associate Spain (1-Year FTC) | Barcelona – Catalonia | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://harman.wd3.myworkdayjobs.com/HARMAN/job/Barcelona--Catalonia-Spain/Dealer-Support-Associate-Spain--1-Year-FTC-_R-55038-2026) |
+| **Nissan** | Environmental & Sustainability Engineering, Graduate Trainee | Cantabria, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cantabria/Environmental---Sustainability-Engineering--Graduate-Trainee_R00213378-1) |
 | **Celonis** | (Graduated) Intern Online Training Translation (Korean speaking) | Madrid | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7886290003?gh_jid=7886290003) |
 | **Thales** | NAVAIDS & AVIONICS INTERN | Madrid, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/NAVAIDS---AVIONICS-INTERN_R0335543-1) |
 | **Thales** | Intern Trainee DevOp | Madrid, ES | 3w | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/Intern-Trainee-DevOp_R0336361-1) |
@@ -154,10 +154,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | San Sebastián, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083811105) |
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Amurrio, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083810915) |
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Pontevedra, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083810715) |
-| **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 19m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000137408499) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | San Sebastián, ES | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083811105) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Amurrio, ES | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083810915) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Pontevedra, ES | 26m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083810715) |
+| **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 27m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000137408499) |
 | **Abbott** | Field Service FP Internship - Madrid - Core Lab | Spain - Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Madrid/Field-Service-FP-Internship---Madrid---Core-Lab_31158460) |
 | **Celonis** | (Graduated) Intern Academy Operations & Technology | Madrid | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7977932003?gh_jid=7977932003) |
 | **Geotab** | Technical Support Specialist - German/English speaking | Ferrara +2 more | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5353627008) |
