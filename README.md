@@ -65,9 +65,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Sopra Steria** | Programador/a Java Junior con francés | Valencia, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000135040614) |
-| **Sopra Steria** | Programador/a Java Junior con francés | Madrid, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000135035735) |
-| **Sopra Steria** | Programador/a Junior con Francés | Sevilla, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000134943139) |
+| **Sopra Steria** | Programador/a Java Junior con francés | Valencia, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000135040614) |
+| **Sopra Steria** | Programador/a Java Junior con francés | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000135035735) |
+| **Sopra Steria** | Programador/a Junior con Francés | Sevilla, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000134943139) |
 | **Datadog** | Software Engineering Intern | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) |
 | **Monolithic Power Systems** | Software Engineer - New Grad | Barcelona | 3d | [<img src="images/apply.png" width="80" alt="Apply">](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Barcelona-Spain/Software-Engineer---New-Grad_R-1952) |
 | **Thales** | DevOps Intern | Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/DevOps-Intern_R0336368-1) |
@@ -111,11 +111,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104998955) |
-| **Veolia Environnement SA** | Legal Trainee - Asesoría Jurídica Corporativa | Bizkaia, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141226928) |
-| **NBCUniversal** | Finance Trainee | Madrid, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
-| **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/68e54108-77f6-4295-8f2b-55ca79a1745b) |
-| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
+| **Veolia Environnement SA** | Técnica/o junior de instalaciones de Calefacción Bizkaia | Zamudio, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000104998955) |
+| **Veolia Environnement SA** | Legal Trainee - Asesoría Jurídica Corporativa | Bizkaia, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000141226928) |
+| **NBCUniversal** | Finance Trainee | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/NBCUniversal3/744000143285424) |
+| **Veeva Systems** | Associate Consultant (Spain) - Entry-Level Technology Consulting (Life Sciences) | Spain - Barcelona | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/68e54108-77f6-4295-8f2b-55ca79a1745b) |
+| **Bosch Group** | Prácticas: Departamento de Ingeniería de Producción (MSS2-I) - Producción de sensores de airbag... | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000038252816) |
 | **Eurofins** | 6-month paid internship - AI & Automation | Barcelona, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/744000148712379) |
 | **Red Bull** | Brand Trainee | Madrid, ES | 1d | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/RedBull/744000148513789) |
 | **Abbott** | Government Affairs Intern - Madrid | Spain - Madrid, ES | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Madrid/Government-Affairs-Intern---Madrid_31160131) |
@@ -148,10 +148,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | San Sebastián, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083811105) |
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Amurrio, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083810915) |
-| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Pontevedra, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083810715) |
-| **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000137408499) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | San Sebastián, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083811105) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Amurrio, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083810915) |
+| **Veolia Environnement SA** | Técnico/a Junior de Soporte Operaciones (Prácticas) | Pontevedra, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000083810715) |
+| **Sopra Steria** | Consultor Técnico Junior | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000137408499) |
 | **Abbott** | Field Service FP Internship - Madrid - Core Lab | Spain - Madrid, ES | 1w | [<img src="images/apply.png" width="80" alt="Apply">](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Spain---Madrid/Field-Service-FP-Internship---Madrid---Core-Lab_31158460) |
 | **Celonis** | (Graduated) Intern Academy Operations & Technology | Madrid | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/celonis/jobs/7977932003?gh_jid=7977932003) |
 | **Geotab** | Technical Support Specialist - German/English speaking | Ferrara +2 more | 2w | [<img src="images/apply.png" width="80" alt="Apply">](https://job-boards.greenhouse.io/geotab/jobs/5353627008) |
@@ -172,21 +172,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| **Veolia Environnement SA** | Junior Financial Auditor. | Barcelona, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000082166954) |
-| **Veolia Environnement SA** | Ingeniero/a Eléctrico/a Junior | Carmona, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000089461241) |
-| **Veolia Environnement SA** | Controller financiero junior. | Barcelona, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122492967) |
-| **Sopra Steria** | Consultor/a Junior de Ciberseguridad y Cumplimiento Normativo (ENS) | L'Hospitalet de Llobregat, ES | 5m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000142805049) |
-| **Philips** | Internship: Solutions Project Manager | Madrid, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Madrid/Internship--Customer-Support-Engineer-Intern_591583) |
-| **Intuitive** | da Vinci Clinical Territory Associate | Seville, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000144041729) |
-| **Intuitive** | da Vinci Clinical Territory Associate | Málaga, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000144041100) |
-| **Intuitive** | da Vinci Clinical Territory Associate | Tarragona, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000144758835) |
-| **Eurofins** | Customer Service Internship | Madrid, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999708302550) |
-| **Veeva Systems** | Associate Technical Consultant - Entry-Level Consulting | Spain - Barcelona | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/d5fce9c2-7e36-47bb-aee1-93038979de93) |
-| **Bosch Group** | Prácticas Ingeniería I+D Filtración y electrificación en automoción | Aranjuez, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000119578574) |
-| **Rover** | Trust and Safety Agent - French Speaking (Mon-Fri) | Spain | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/7cd71faa-5b4b-4476-ace6-0a19623569cf) |
-| **Rover** | Trust and Safety Agent - French Speaking (Tue-Sat) | Spain | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/a9df3669-d156-4d19-ab06-1e3e2dab2f98) |
-| **Rover** | Trust and Safety Agent - German Speaking (Mon-Fri) | Spain | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/1c334d74-861c-4872-8906-499e1d4202ce) |
-| **Bosch Group** | Internship - Recruiting and HR | Madrid, ES | 6m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121956998) |
+| **Veolia Environnement SA** | Junior Financial Auditor. | Barcelona, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000082166954) |
+| **Veolia Environnement SA** | Ingeniero/a Eléctrico/a Junior | Carmona, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000089461241) |
+| **Veolia Environnement SA** | Controller financiero junior. | Barcelona, ES | 12m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000122492967) |
+| **Sopra Steria** | Consultor/a Junior de Ciberseguridad y Cumplimiento Normativo (ENS) | L'Hospitalet de Llobregat, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/SopraSteria1/744000142805049) |
+| **Philips** | Internship: Solutions Project Manager | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Madrid/Internship--Customer-Support-Engineer-Intern_591583) |
+| **Intuitive** | da Vinci Clinical Territory Associate | Seville, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000144041729) |
+| **Intuitive** | da Vinci Clinical Territory Associate | Málaga, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000144041100) |
+| **Intuitive** | da Vinci Clinical Territory Associate | Tarragona, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Intuitive/744000144758835) |
+| **Eurofins** | Customer Service Internship | Madrid, ES | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/Eurofins/743999708302550) |
+| **Veeva Systems** | Associate Technical Consultant - Entry-Level Consulting | Spain - Barcelona | 13m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/veeva/d5fce9c2-7e36-47bb-aee1-93038979de93) |
+| **Bosch Group** | Prácticas Ingeniería I+D Filtración y electrificación en automoción | Aranjuez, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000119578574) |
+| **Rover** | Trust and Safety Agent - French Speaking (Mon-Fri) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/7cd71faa-5b4b-4476-ace6-0a19623569cf) |
+| **Rover** | Trust and Safety Agent - French Speaking (Tue-Sat) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/a9df3669-d156-4d19-ab06-1e3e2dab2f98) |
+| **Rover** | Trust and Safety Agent - German Speaking (Mon-Fri) | Spain | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.lever.co/rover/1c334d74-861c-4872-8906-499e1d4202ce) |
+| **Bosch Group** | Internship - Recruiting and HR | Madrid, ES | 14m | [<img src="images/apply.png" width="80" alt="Apply">](https://jobs.smartrecruiters.com/BoschGroup/744000121956998) |
 | **Thales** | New Product Engineer Intern | Madrid, ES | 4h | [<img src="images/apply.png" width="80" alt="Apply">](https://thales.wd3.myworkdayjobs.com/Careers/job/Madrid/New-Product-Engineer-Intern_R0337003-1) |
 | **Citi** | Associate Banker | Madrid  Spain, ES | 22h | [<img src="images/apply.png" width="80" alt="Apply">](https://citi.wd5.myworkdayjobs.com/2/job/Madrid--Spain/Associate-Banker_26974468) |
 | **Nike** | Nike Store Associate (Athlete) Getafe, MAD Contrato: 16 hrs semana | Madrid | 2d | [<img src="images/apply.png" width="80" alt="Apply">](https://nike.wd1.myworkdayjobs.com/NKE/job/Madrid-Spain/Nike-Store-Associate--Athlete--Getafe--MAD-Contrato--16-hrs-semana_R-91632) |
